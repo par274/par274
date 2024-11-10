@@ -16,6 +16,6 @@ https://github.com/mentionbb
 
 ---
 
-### Social
+### :link: Social
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/berk_azakli)
 [![Twitter](https://img.shields.io/twitter/follow/berk_azakli?style=social)](https://x.com/berk_azakli)
