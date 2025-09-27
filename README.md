@@ -13,9 +13,3 @@ In my projects, I generally work with Symfony Components. I develop applications
 
 ### 🌱 I’m currently working on project name as MentionBB. It's a forum software.
 https://github.com/mentionbb
-
----
-
-### :link: Social
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/berk_azakli)
-[![Twitter](https://img.shields.io/twitter/follow/berk_azakli?style=social)](https://x.com/berk_azakli)
