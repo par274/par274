@@ -12,5 +12,5 @@ I focused on new technologies that are open-source and modular.
 In my projects, I generally work with Symfony Components. I develop applications with my own framework(ParFramework) consisting of components, not a complete Symfony, Zend or Doctrine. I use the best parts of these.
 
 ### 🌱 I'm currently working on two different projects
-https://github.com/mentionbb 
-https://github.com/par274/synapseui
+- https://github.com/mentionbb 
+- https://github.com/par274/synapseui
