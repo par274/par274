@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Berk.
-❓ On Github I am known as Par274 (aka Scarecrow)
+On Github I am known as Par274 (aka Scarecrow)
 
 > **From the outside, `!false` may not seem like `true` to you, but to a programmer it never does.**  
 
