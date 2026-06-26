@@ -5,6 +5,6 @@ On Github I am known as Par274 (aka Scarecrow)
 
 ### I focus on developing applications for the web and desktop with an interest in open-source and modular technologies.
 
-I’m currently building emulator-related projects in C# while exploring C++ and native desktop technologies. Also I work with React, Svelte, JavaScript, TypeScript, and PHP.
+Over the years, I've worked across web, desktop, mobile and native development. These days, I primarily focus on C++, C#, emulation, and system architecture, while still using technologies like Svelte, Node.js, and Electron where they make sense.
 
 ---
